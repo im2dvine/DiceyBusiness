@@ -1,0 +1,13 @@
+.dice {
+    width: auto;
+    height: auto;
+    float: left;
+    font-size: 10em;
+    color: black;
+    flex-wrap: wrap;
+  };
+
+  body {
+    content-align: center;
+  }
+

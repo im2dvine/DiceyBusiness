@@ -8,6 +8,12 @@
   };
 
   body {
-    content-align: center;
+    display: center;
+
+  }
+
+  button {
+      border-radius: 10px;
+      margin: auto;
   }
 
